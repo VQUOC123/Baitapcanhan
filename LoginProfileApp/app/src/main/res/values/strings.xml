@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LoginProfileApp</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_continue">Login to continue</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- Profile Screen -->
+    <string name="settings">Settings</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="friends_count">125</string>
+    <string name="friends_label">Friends</string>
+    <string name="followers_count">250</string>
+    <string name="followers_label">Followers</string>
+
+    <string name="email_label">Email</string>
+    <string name="email_default">user@email.com</string>
+    <string name="phone_label">Phone</string>
+    <string name="phone_default">+84 999 555 222</string>
+    <string name="username_label">Username</string>
+    <string name="username_default">\@username</string>
+
+    <!-- Toast Messages -->
+    <string name="enter_username">Please enter username</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="qn016727_gmail_com">qn016727@gmail.com</string>
+    <string name="_0971990571">0971990571</string>
+    <string name="nguyen_van_quoc">Nguyen Van Quoc</string>
+    <string name="_1809">1809</string>
+    <string name="_2005">2005</string>
+    <string name="todo">TODO</string>
+</resources>
